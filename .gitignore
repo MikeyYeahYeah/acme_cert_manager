@@ -1,0 +1,3 @@
+.terraform
+domain_certs
+terraform.tfstate*
